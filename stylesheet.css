@@ -1,0 +1,246 @@
+li{
+list-style:none;
+float:left;
+padding:30px 20px;
+}
+
+header{
+	color:#fff;
+	height:80px;
+	background-color:maroon;
+	width:100%;
+position:fixed;
+  	top:0;
+  	z-index:10;
+
+	 }
+
+.header-left{
+	font-family:"rockwell";
+	font-size:38px;
+	padding:20px 48px;
+	float:left;
+	opacity:0.6;
+	
+
+}
+.header-log{
+	float:right;
+	margin-top:20px;
+	margin-right:20px;
+	margin-left:20px;
+	background-color: rgba(255, 255, 255, 0.3);
+
+}
+.header-log:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+  transition:all 0.5s;
+}
+
+.header-log a{
+  line-height:30px;
+  padding-left:25px;
+  padding-right:25px;
+  color:white;
+  display:block;
+}
+
+.container{
+	width:1170px;
+	padding:0px 15px;
+	margin:0 auto;
+}
+
+.main-content{
+	background-image:url(simple.jpg);
+	 padding: 180px 0px 100px 0px;
+	  background-size: cover;
+	  color:white;
+	  text-align: center;
+}
+
+.main-content h1{
+	opacity: 0.8;
+  	font-size: 45px;
+ 	 letter-spacing: 5px;
+ 	 margin-bottom: 10px;
+}
+
+.main-content p{
+	opacity:0.7;
+	margin-bottom:3px;
+	line-height:1px;
+}
+
+.btn-wrapper {
+ 	 margin-top:50px;
+	margin-bottom:20px;
+}
+
+.signup {
+  background-color: #239b76;
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.workout{
+  float:left;
+  width:25%;
+}
+
+.workout-icon a{
+	padding:10px 0px;
+	color:black;
+	width:100%
+	text-align:center;
+	display:block;
+	font-family:"verdana";
+}
+
+.wrapper {
+  height: 200px;
+  padding-bottom: 80px;
+  background-color: #f7f7f7;
+  text-align: center;
+}
+
+.heading h2{
+	font-weight:normal;
+
+}
+
+.feedback{
+border-top:1px solid #eee;
+text-align:center;
+background color:#f7f7f7;
+}
+
+.head-top h2{
+	font-size:32px;
+	font-family:"engravers mt";
+	opacity:0.8;
+}
+
+.head-top h3{
+	font-size:20px;
+	font-family:"baskerville old face";
+	letter-spacing:4px;
+	
+}
+
+.feedback p{
+font-size:18px;
+  margin-top:30px;
+}
+
+.feedback{
+ padding-top:50px;
+background-color:rgb(255,248,220);
+
+}
+
+.feedback input,select{
+  width:400px;
+  margin-top:10px;
+  margin-bottom:10px;
+  padding:20px;
+  font-size:18px;
+  border:2px solid #dee7ec;
+}
+
+.contact-submit{
+  background-color:#239b76;
+  color:white;
+}
+
+footer{
+	background-color:maroon;
+	height:80px;
+	width:100%;
+}
+
+.footer-left p{
+	font-family:"mistral";
+	font-size:20px;
+	color:white;
+	padding:15px;
+	float:left;
+	opacity:0.9;
+	
+}
+
+.footer-end {
+	color:white;
+	padding:40px 300px;
+	float:left;
+	}
+
+.footer-right{
+	color:white;
+	font-size:20px;
+	padding:30px;
+	font-family:"eras demi itc";
+	letter-spacing:6px;
+	float:right;
+	opacity:0.8;
+}
+
+marquee{
+	font-size:18px;
+	letter-spacing:4px;
+	font-family:"monotype corsiva";
+	color:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
